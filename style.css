@@ -1,0 +1,32 @@
+.main {
+	background-color: #21cadd;
+	font-family: "Lucida Console", Courier, monospace;
+	padding: 0;
+	margin: 0;
+}
+
+.sticky-note {
+	background-color: yellow;
+	margin-left: 10px;
+	
+	box-shadow: 5px 10px #464B4E; 
+	padding-bottom: 10px;
+	width: 50% !important;
+	height: 50% !important;
+	padding-top: 10px;
+	list-style-type: none;
+}
+
+.button-style {
+	border-radius: 30px;
+	border-color: #EEEEEE;
+}
+
+.input-style {
+	border-radius: 30px;
+}
+
+h1 {
+	color: #EEEEEE;
+}
+
